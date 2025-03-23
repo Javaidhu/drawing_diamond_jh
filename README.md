@@ -1,0 +1,1 @@
+# drawing_diamond_jh
